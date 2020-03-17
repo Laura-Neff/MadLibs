@@ -1,3 +1,3 @@
 # MadLibs
 
-An introduction to Python input commands to make a Mad Libs game.
+An introduction/refresher to Python input commands to make a Mad Libs game.
